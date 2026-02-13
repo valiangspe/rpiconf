@@ -1,0 +1,9 @@
+#under vc4-kms-v3d
+
+hdmi_group:1=1
+hdmi_mode:1=16
+
+hdmi_group:0=1
+hdmi_mode:0=16
+
+display_hdmi_rotate=1
