@@ -2,6 +2,6 @@
 2. advanced -> use X11 (disable wayland)
 3. disable screen blanking
 4. edit /boot/firmware/config.txt
-5. create /home/gspe/start-kiosk.sh
+5. create /home/rpi/start-kiosk.sh
 6. mkdir -p ~/.config/autostart
 7. nano ~/.config/autostart/kiosk.desktop
